@@ -1,0 +1,28 @@
+body{
+    background-color: green;
+}
+
+.card{
+   
+}
+
+.card .row{
+    height: 150px;
+}
+
+h1{
+    font-size: 80px;
+}
+
+.card p{
+    font-size: 60px;
+}
+
+.diamond{
+    color: red;
+}
+
+
+.heart{
+    color: red;
+}
